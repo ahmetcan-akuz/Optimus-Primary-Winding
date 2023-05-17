@@ -3,27 +3,23 @@ Circuit: * D:\Documents\GitHub\Optimus-Primary-Winding\464_proje_dizili.asc
 Limiting fall time of source v2 to 10
 WARNING: Less than two connections to node NC_02.  This node is used by SW.
 Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.00249786 to 0.00249786
 
-pin: AVG(-v(vin)*i(v1))=56.7923 FROM 0 TO 0.01
-pout: AVG(v(vo)*i(r1))=44.2939 FROM 0 TO 0.01
-eff: pout/pin=0.779928
-
-
-Date: Wed May 17 09:42:07 2023
-Total elapsed time: 46.588 seconds.
+Date: Wed May 17 09:56:33 2023
+Total elapsed time: 12.247 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3673276
-traniter = 3673276
-tranpoints = 943528
-accept = 622748
-rejected = 320780
+totiter = 867016
+traniter = 867016
+tranpoints = 223058
+accept = 147887
+rejected = 75172
 matrix size = 70
 fillins = 61
 solver = Normal
-Thread vector: 5.9/5.2[2] 2.3/2.5[1] 0.6/1.8[1] 0.2/1.1[1]  2592/500
-Matrix Compiler1: 6.66 KB object code size  1.7/0.7/[0.3]
-Matrix Compiler2: 6.18 KB object code size  0.4/0.7/[0.3]
+Thread vector: 7.5/5.1[2] 2.4/3.0[1] 0.7/1.1[1] 0.9/1.0[1]  2592/500
+Matrix Compiler1: 6.66 KB object code size  1.8/0.7/[0.3]
+Matrix Compiler2: 6.18 KB object code size  0.9/0.7/[0.6]
 
