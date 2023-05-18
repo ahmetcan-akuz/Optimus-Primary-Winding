@@ -1,1 +1,31 @@
-Fatal Error: Could not open include file "C:\Users\ahmetcan.akuz\Documents\LTspiceXVII\lib\sub/tl431.mod"
+Circuit: * C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\Flyback_design_v2\464_proje_dizili.asc
+
+Error on line 7 : d2 vd n001 rb168vym100
+	 Unable to find definition of model "rb168vym100"
+Error on line 25 : d3 0 n003 tfz33b
+	 Unable to find definition of model "tfz33b"
+Per .tran options, skipping operating point for transient analysis.
+
+pin: AVG(-v(vin)*i(v1))=54.2849 FROM 0 TO 0.01
+pout: AVG(v(vo)*i(r1))=42.4332 FROM 0 TO 0.01
+eff: pout/pin=0.781676
+
+
+Date: Thu May 18 23:51:48 2023
+Total elapsed time: 98.814 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7325224
+traniter = 7325224
+tranpoints = 1999742
+accept = 1463774
+rejected = 535968
+matrix size = 60
+fillins = 44
+solver = Normal
+Thread vector: 5.0/3.1[2] 1.7/1.3[2] 0.5/0.4[2] 0.1/0.7[1]  2592/500
+Matrix Compiler1: 5.27 KB object code size  0.7/0.4/[0.2]
+Matrix Compiler2: 5.17 KB object code size  0.3/0.5/[0.2]
+
