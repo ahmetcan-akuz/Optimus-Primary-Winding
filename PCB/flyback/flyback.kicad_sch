@@ -2707,7 +2707,7 @@
     (uuid b5d01af5-8ae7-44b6-90bf-a36ba0c75834)
     (property "Reference" "T1" (id 0) (at 157.8737 52.07 0))
     (property "Value" "Transformer_1P_1S" (id 1) (at 157.8737 54.61 0))
-    (property "Footprint" "Transformer_THT:Transformer_CHK_EI48-8VA_Neutral" (id 2) (at 157.861 61.722 0)
+    (property "Footprint" "Transformer_THT:Transformer_37x44" (id 2) (at 157.861 61.722 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.861 61.722 0)
@@ -3211,7 +3211,7 @@
       (reference "R20") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b5d01af5-8ae7-44b6-90bf-a36ba0c75834"
-      (reference "T1") (unit 1) (value "Transformer_1P_1S") (footprint "Transformer_THT:Transformer_CHK_EI48-8VA_Neutral")
+      (reference "T1") (unit 1) (value "Transformer_1P_1S") (footprint "Transformer_THT:Transformer_37x44")
     )
     (path "/ab106f85-0f50-4e3d-a047-d2875db758ad"
       (reference "U1") (unit 1) (value "UC3843_SOIC8") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
