@@ -1,0 +1,253 @@
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-B_Mask.gbr' ----   Sun Jun 11 21:21:48 2023
+
+D12   --> D100
+D13   --> D101
+D14   --> D102
+D15   --> D103
+D16   --> D104
+D17   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-Edge_Cuts.gbr' ----   Sun Jun 11 21:21:48 2023
+
+D10   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Cu.gbr' ----   Sun Jun 11 21:21:48 2023
+
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+D16   --> D111
+D17   --> D112
+D18   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Mask.gbr' ----   Sun Jun 11 21:21:48 2023
+
+D12   --> D114
+D13   --> D115
+D14   --> D116
+D16   --> D117
+D17   --> D118
+D18   --> D119
+D19   --> D120
+D20   --> D121
+D21   --> D122
+D22   --> D123
+D23   --> D124
+D24   --> D125
+D25   --> D126
+D26   --> D127
+D27   --> D128
+D28   --> D129
+D29   --> D130
+D30   --> D131
+D31   --> D132
+D32   --> D133
+D33   --> D134
+D34   --> D135
+D35   --> D136
+D36   --> D137
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Paste.gbr' ----   Sun Jun 11 21:21:48 2023
+
+D10   --> D138
+D11   --> D139
+D12   --> D140
+D13   --> D141
+D14   --> D142
+D15   --> D143
+D16   --> D144
+D17   --> D145
+D18   --> D146
+D19   --> D147
+D20   --> D148
+D21   --> D149
+D22   --> D150
+D23   --> D151
+D24   --> D152
+D25   --> D153
+D26   --> D154
+D27   --> D155
+D28   --> D156
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-NPTH.drl' ----   Sun Jun 11 21:23:42 2023
+
+T1   --> T5
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-Edge_Cuts.gbr' ----   Sun Jun 11 22:02:00 2023
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Cu.gbr' ----   Sun Jun 11 22:02:01 2023
+
+D10   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Mask.gbr' ----   Sun Jun 11 22:02:01 2023
+
+D10   --> D106
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+D16   --> D111
+D17   --> D112
+D18   --> D113
+D19   --> D114
+D20   --> D115
+D21   --> D116
+D22   --> D117
+D23   --> D118
+D24   --> D119
+D25   --> D120
+D26   --> D121
+D27   --> D122
+D28   --> D123
+D29   --> D124
+D30   --> D125
+D31   --> D126
+D32   --> D127
+D33   --> D128
+D34   --> D129
+D35   --> D130
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Paste.gbr' ----   Sun Jun 11 22:02:01 2023
+
+D10   --> D131
+D11   --> D132
+D12   --> D133
+D13   --> D134
+D14   --> D135
+D15   --> D136
+D16   --> D137
+D17   --> D138
+D19   --> D139
+D20   --> D140
+D21   --> D141
+D22   --> D142
+D23   --> D143
+D24   --> D144
+D25   --> D145
+D26   --> D146
+D27   --> D147
+D28   --> D148
+D29   --> D149
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Paste.gbr' ----   Sun Jun 11 22:02:41 2023
+
+D11   --> D100
+D12   --> D101
+D13   --> D102
+D14   --> D103
+D15   --> D104
+D16   --> D105
+D17   --> D106
+D18   --> D107
+D19   --> D108
+D20   --> D109
+D21   --> D110
+D22   --> D111
+D23   --> D112
+D24   --> D113
+D25   --> D114
+D26   --> D115
+D27   --> D116
+D28   --> D117
+D29   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-B_Mask.gbr' ----   Sun Jun 11 22:03:01 2023
+
+D10   --> D100
+D12   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Cu.gbr' ----   Sun Jun 11 22:03:01 2023
+
+D10   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Mask.gbr' ----   Sun Jun 11 22:03:01 2023
+
+D10   --> D108
+D13   --> D109
+D14   --> D110
+D15   --> D111
+D16   --> D112
+D17   --> D113
+D18   --> D114
+D19   --> D115
+D20   --> D116
+D21   --> D117
+D22   --> D118
+D23   --> D119
+D24   --> D120
+D25   --> D121
+D26   --> D122
+D27   --> D123
+D28   --> D124
+D29   --> D125
+D30   --> D126
+D31   --> D127
+D32   --> D128
+D33   --> D129
+D34   --> D130
+D35   --> D131
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\PCB\Gerber2\flyback-F_Paste.gbr' ----   Sun Jun 11 22:03:01 2023
+
+D10   --> D132
+D11   --> D133
+D12   --> D134
+D13   --> D135
+D14   --> D136
+D15   --> D137
+D16   --> D138
+D17   --> D139
+D19   --> D140
+D20   --> D141
+D21   --> D142
+D22   --> D143
+D23   --> D144
+D24   --> D145
+D25   --> D146
+D26   --> D147
+D27   --> D148
+D28   --> D149
+D29   --> D150
+-----------------------------------------------------------------

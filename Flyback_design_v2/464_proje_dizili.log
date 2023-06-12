@@ -6,26 +6,26 @@ Error on line 25 : d3 0 n003 tfz33b
 	 Unable to find definition of model "tfz33b"
 Per .tran options, skipping operating point for transient analysis.
 
-pin: AVG(-v(vin)*i(v1))=54.4762 FROM 0 TO 0.01
-pout: AVG(v(vo)*i(r1))=42.4338 FROM 0 TO 0.01
-eff: pout/pin=0.778941
+pin: AVG(-v(vin)*i(v1))=69.3669 FROM 0 TO 0.01
+pout: AVG(v(vo)*i(r1))=41.3259 FROM 0 TO 0.01
+eff: pout/pin=0.595759
 
 
-Date: Mon May 22 14:09:33 2023
-Total elapsed time: 9.167 seconds.
+Date: Sun Jun 11 20:34:35 2023
+Total elapsed time: 11.283 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1203479
-traniter = 1203479
-tranpoints = 329746
-accept = 241314
-rejected = 88432
+totiter = 1105988
+traniter = 1105988
+tranpoints = 298954
+accept = 221170
+rejected = 77784
 matrix size = 61
 fillins = 45
 solver = Normal
-Thread vector: 4.3/3.5[2] 2.1/1.6[2] 0.4/0.5[1] 0.1/0.7[1]  2592/500
+Thread vector: 4.3/3.6[2] 2.1/1.9[1] 0.5/0.5[1] 0.2/0.7[1]  2592/500
 Matrix Compiler1: 5.38 KB object code size  0.9/0.4/[0.2]
-Matrix Compiler2: 5.32 KB object code size  0.4/0.4/[0.2]
+Matrix Compiler2: off  [0.4]/0.5/0.4
 
