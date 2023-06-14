@@ -2,30 +2,139 @@ Circuit: * C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\Flyba
 
 Error on line 7 : d2 vd n001 rb168vym100
 	 Unable to find definition of model "rb168vym100"
-Error on line 25 : d3 0 n003 tfz33b
-	 Unable to find definition of model "tfz33b"
 Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.00105608 to 0.00105608
+Heightened Def Con from 0.00110428 to 0.00110428
+Heightened Def Con from 0.00116146 to 0.00116146
+Heightened Def Con from 0.00121543 to 0.00121543
+Heightened Def Con from 0.00135838 to 0.00135838
+Heightened Def Con from 0.00137362 to 0.00137362
+Heightened Def Con from 0.00159664 to 0.00159664
+Heightened Def Con from 0.0016443 to 0.00164431
+Heightened Def Con from 0.0018667 to 0.0018667
+Heightened Def Con from 0.00202555 to 0.00202555
+Heightened Def Con from 0.00210411 to 0.00210411
+Heightened Def Con from 0.00227981 to 0.00227981
+Heightened Def Con from 0.00234332 to 0.00234332
+Heightened Def Con from 0.00237508 to 0.00237508
+Heightened Def Con from 0.00247039 to 0.00247039
+Heightened Def Con from 0.00250217 to 0.00250217
+Heightened Def Con from 0.00253393 to 0.00253393
+Heightened Def Con from 0.00258159 to 0.00258159
+Heightened Def Con from 0.00262925 to 0.00262925
+Heightened Def Con from 0.00329641 to 0.00329641
+Heightened Def Con from 0.00339168 to 0.00339168
+Heightened Def Con from 0.00375708 to 0.00375708
+Heightened Def Con from 0.00383648 to 0.00383648
+Heightened Def Con from 0.00386824 to 0.00386824
+Heightened Def Con from 0.00436066 to 0.00436066
+Heightened Def Con from 0.00447186 to 0.00447187
+Heightened Def Con from 0.00451948 to 0.00451948
+Heightened Def Con from 0.00458306 to 0.00458306
+Heightened Def Con from 0.00461479 to 0.00461479
+Heightened Def Con from 0.00467836 to 0.00467836
+Heightened Def Con from 0.00486894 to 0.00486895
+Heightened Def Con from 0.00491663 to 0.00491663
+Heightened Def Con from 0.00494839 to 0.0049484
+Heightened Def Con from 0.00496424 to 0.00496425
+Heightened Def Con from 0.00499601 to 0.00499601
+Heightened Def Con from 0.00513251 to 0.00513251
+Heightened Def Con from 0.00518665 to 0.00518665
+Heightened Def Con from 0.00520251 to 0.00520251
+Heightened Def Con from 0.00536138 to 0.00536138
+Heightened Def Con from 0.00537723 to 0.00537723
+Heightened Def Con from 0.00559962 to 0.00559962
+Heightened Def Con from 0.00586965 to 0.00586965
+Heightened Def Con from 0.00588557 to 0.00588557
+Heightened Def Con from 0.0059332 to 0.0059332
+Heightened Def Con from 0.00596497 to 0.00596497
+Heightened Def Con from 0.00604355 to 0.00604355
+Heightened Def Con from 0.00607618 to 0.00607618
+Heightened Def Con from 0.00615564 to 0.00615564
+Heightened Def Con from 0.00618739 to 0.00618739
+Heightened Def Con from 0.00636215 to 0.00636215
+Heightened Def Con from 0.00637799 to 0.00637799
+Heightened Def Con from 0.00645743 to 0.00645743
+Heightened Def Con from 0.00648921 to 0.00648921
+Heightened Def Con from 0.00650506 to 0.00650506
+Heightened Def Con from 0.00655274 to 0.00655274
+Heightened Def Con from 0.00656865 to 0.00656865
+Heightened Def Con from 0.00660045 to 0.00660045
+Heightened Def Con from 0.00669571 to 0.00669572
+Heightened Def Con from 0.00677514 to 0.00677514
+Heightened Def Con from 0.00679104 to 0.00679104
+Heightened Def Con from 0.00688636 to 0.00688637
+Heightened Def Con from 0.00694988 to 0.00694988
+Heightened Def Con from 0.00699754 to 0.00699754
+Heightened Def Con from 0.00706108 to 0.00706108
+Heightened Def Con from 0.00707695 to 0.00707695
+Heightened Def Con from 0.00715639 to 0.00715639
+Heightened Def Con from 0.00717227 to 0.00717227
+Heightened Def Con from 0.00718816 to 0.00718816
+Heightened Def Con from 0.00726754 to 0.00726754
+Heightened Def Con from 0.00753757 to 0.00753757
+Heightened Def Con from 0.00756937 to 0.00756937
+Heightened Def Con from 0.00761702 to 0.00761702
+Heightened Def Con from 0.00766465 to 0.00766465
+Heightened Def Con from 0.00780764 to 0.00780764
+Heightened Def Con from 0.00783937 to 0.00783937
+Heightened Def Con from 0.00798237 to 0.00798237
+Heightened Def Con from 0.00803001 to 0.00803001
+Heightened Def Con from 0.00809355 to 0.00809355
+Heightened Def Con from 0.0081094 to 0.0081094
+Heightened Def Con from 0.00815707 to 0.00815708
+Heightened Def Con from 0.00818884 to 0.00818884
+Heightened Def Con from 0.00820476 to 0.00820476
+Heightened Def Con from 0.00825239 to 0.00825239
+Heightened Def Con from 0.00828416 to 0.00828416
+Heightened Def Con from 0.00834767 to 0.00834767
+Heightened Def Con from 0.00837946 to 0.00837946
+Heightened Def Con from 0.00847478 to 0.00847478
+Heightened Def Con from 0.00852245 to 0.00852245
+Heightened Def Con from 0.00866538 to 0.00866538
+Heightened Def Con from 0.00876071 to 0.00876071
+Heightened Def Con from 0.00879244 to 0.00879244
+Heightened Def Con from 0.00882419 to 0.00882419
+Heightened Def Con from 0.00888773 to 0.00888773
+Heightened Def Con from 0.00898308 to 0.00898308
+Heightened Def Con from 0.00899892 to 0.00899892
+Heightened Def Con from 0.00907837 to 0.00907837
+Heightened Def Con from 0.00922132 to 0.00922132
+Heightened Def Con from 0.00934839 to 0.00934839
+Heightened Def Con from 0.00936428 to 0.00936428
+Heightened Def Con from 0.00938019 to 0.00938019
+Heightened Def Con from 0.00939608 to 0.00939608
+Heightened Def Con from 0.00942781 to 0.00942781
+Heightened Def Con from 0.00955425 to 0.00955425
+Heightened Def Con from 0.00957079 to 0.00957079
+Heightened Def Con from 0.009682 to 0.009682
+Heightened Def Con from 0.00974553 to 0.00974553
+Heightened Def Con from 0.00976139 to 0.00976139
+Heightened Def Con from 0.0098726 to 0.0098726
+Heightened Def Con from 0.00993612 to 0.00993612
+Heightened Def Con from 0.00996788 to 0.00996789
+Heightened Def Con from 0.00998376 to 0.00998376
 
-pin: AVG(-v(vin)*i(v1))=69.3669 FROM 0 TO 0.01
-pout: AVG(v(vo)*i(r1))=41.3259 FROM 0 TO 0.01
-eff: pout/pin=0.595759
+pin: AVG(-v(vin)*i(v1))=55.2897 FROM 0 TO 0.01
+pout: AVG(v(vo)*i(r1))=44.4608 FROM 0 TO 0.01
+eff: pout/pin=0.804142
 
 
-Date: Sun Jun 11 20:34:35 2023
-Total elapsed time: 11.283 seconds.
+Date: Wed Jun 14 17:09:19 2023
+Total elapsed time: 10.522 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1105988
-traniter = 1105988
-tranpoints = 298954
-accept = 221170
-rejected = 77784
-matrix size = 61
+totiter = 1290270
+traniter = 1290270
+tranpoints = 347978
+accept = 252617
+rejected = 95472
+matrix size = 62
 fillins = 45
 solver = Normal
-Thread vector: 4.3/3.6[2] 2.1/1.9[1] 0.5/0.5[1] 0.2/0.7[1]  2592/500
-Matrix Compiler1: 5.38 KB object code size  0.9/0.4/[0.2]
-Matrix Compiler2: off  [0.4]/0.5/0.4
+Thread vector: 4.1/8.3[1] 1.7/1.4[2] 0.4/0.4[1] 0.1/0.7[1]  2592/500
+Matrix Compiler1: 5.43 KB object code size  0.8/0.4/[0.2]
+Matrix Compiler2: 5.39 KB object code size  0.3/0.5/[0.2]
 
