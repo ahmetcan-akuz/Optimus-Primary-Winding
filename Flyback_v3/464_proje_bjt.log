@@ -1,0 +1,32 @@
+Circuit: * C:\Users\ahmetcan.akuz\Documents\GitHub\Optimus-Primary-Winding\Flyback_v3\464_proje_bjt.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.00593749 to 0.00593749
+
+pin: AVG(-v(vin)*i(v1))=38.8098 FROM 0 TO 0.01
+pout: AVG(v(vo)*i(r1))=0.770904 FROM 0 TO 0.01
+eff: pout/pin=0.0198637
+
+
+Date: Mon Jun 19 18:38:37 2023
+Total elapsed time: 7.152 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 976959
+traniter = 976959
+tranpoints = 272661
+accept = 197717
+rejected = 74945
+matrix size = 64
+fillins = 50
+solver = Normal
+Thread vector: 5.0/3.9[2] 2.9/2.2[2] 0.5/0.5[1] 0.2/0.9[1]  2592/500
+Matrix Compiler1: 6.03 KB object code size  1.0/0.6/[0.3]
+Matrix Compiler2: 5.65 KB object code size  0.4/0.6/[0.2]
+
